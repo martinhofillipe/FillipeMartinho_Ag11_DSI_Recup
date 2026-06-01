@@ -70,7 +70,7 @@ Biblioteca Colorama
 1. Clone o repositório
 git clone https://github.com/seu-usuario/controle-nivel-agua.git
 2. Acesse a pasta
-cd controle-nivel-agua
+Agenda 11
 3. Instale a biblioteca necessária
 pip install colorama
 4. Execute o programa
@@ -91,7 +91,7 @@ Uso de funções e bibliotecas
 Simulação de sistemas reais
 👨‍💻 Autor
 
-Paulo
+Martinho
 Estudante do curso técnico em Desenvolvimento de Sistemas
 
 📄 Licença
